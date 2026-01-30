@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Calendar, MapPin, Clock } from 'lucide-react';
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '/home/diankham/Bureau/dahira_grenoble/src/components/ui/tabs';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from '/src/components/ui/tabs';
 
 const EventsSection = () => {
   const [events] = useState({
