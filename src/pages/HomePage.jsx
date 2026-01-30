@@ -15,10 +15,10 @@ const HomePage = () => {
   return (
     <>
       <Helmet>
-        <title>Dahira Al-Khayria - Construire ensemble une communauté solidaire</title>
+        <title>Dahira Touba Grenoble - Moutahalikhina Bi Cheikhil Khadim</title>
         <meta 
           name="description" 
-          content="Dahira Al-Khayria est une communauté islamique dédiée à la promotion des valeurs islamiques, l'entraide sociale et le développement spirituel. Découvrez nos projets, événements et faites un don." 
+          content="Dahira Moutahalikhina Bi Cheikhil Khadim est une communauté islamique et mouride dédiée à la promotion des valeurs du mouridisme, basédans la ville de Grenoble." 
         />
       </Helmet>
       
