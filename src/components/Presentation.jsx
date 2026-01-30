@@ -89,7 +89,7 @@ const Presentation = () => {
           Il organisa alors des rencontres chez lui avec quelques frères et sœurs mourides de la ville. Cela se fit notamment avec la participation de <strong>Serigne Mor Diogne</strong> et <strong>Médoune Mbodj</strong>.<br /><br />
           Ils prirent l'initiative d'organiser le Magal chez lui en <strong>1988</strong> et y fondèrent le dahira. Ils demandèrent l'autorisation auprès de <strong>Serigne Abdou Khadr Mbacké</strong>, qui leur ordonna le nom de <strong>Dahira Moutahalikhina Bi Cheikhil Khadim</strong>.<br /><br />
           Dans cette ville étudiante où la population se renouvelle presque chaque année en raison des réorientations, ce qui compliquait les choses, le dahira évolua.<br /><br />
-          Au fil du temps, le nombre de participants augmenta, et le dahira prit forme officiellement en <strong>1987</strong> sous le nom de <strong>"Dahira Moutahlikhina Touba Grenoble"</strong>, en l'honneur de Serigne Touba.<br /><br />
+          Au fil du temps, le nombre de participants augmenta, et le dahira prit forme officiellement sous le nom de <strong>"Dahira Moutahlikhina Touba Grenoble"</strong>, en l'honneur de Serigne Touba.<br /><br />
           Le dahira vise à rassembler la communauté mouride locale pour des activités religieuses, éducatives et sociales, renforçant ainsi les liens fraternels et la pratique des valeurs islamiques.<br /><br />
           Étant donné que la ville est étudiante, nous avons choisi d'investir dans les nouvelles technologies pour assurer une perpétuelle continuité à chaque génération.
         </p>

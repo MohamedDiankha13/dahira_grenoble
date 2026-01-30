@@ -33,14 +33,14 @@ const PresentationSection = () => {
             <div className="mb-4">
               <h4 className="font-semibold text-gray-900">Horaires Dahira</h4>
               <ul className="text-gray-600 list-inside list-disc">
-                <li>Vendredi: 14:00 — 18:00 (réunion & accueil)</li>
-                <li>Samedi: 10:00 — 13:00 (activités communautaires)</li>
+                <li>Vendredi: 20:00 — 23:00 (Répétition khassida & Dourouss)</li>
+                <li>Dimanche: 16:00 — 19:00 (Cours Coraniques et Dahira)</li>
               </ul>
             </div>
 
             <div>
               <h4 className="font-semibold text-gray-900">Horaires des cours</h4>
-              <p className="text-gray-600">Mardi & Jeudi: 18:30 — 20:00 (cours religieux et études)</p>
+              <p className="text-gray-600">Mardi & Jeudi: 18:30 — 20:00 (cours xam xam et révision, en ligne)</p>
             </div>
           </motion.div>
 
